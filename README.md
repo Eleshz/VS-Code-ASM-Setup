@@ -10,3 +10,5 @@
 > - llvm-strip
 > - readelf
 > - GDB
+
+### Clone this into an empty folder of your choice, delete the README.md, and open the root folder in VS Code
